@@ -1,7 +1,4 @@
-Below is a **clean, corrected, and professional version** of your document with the **Analytics** and **Security tooling (Snyk + Dependabot)** sections properly added.
-I’ve kept the tone suitable for **2025, a student-driven volunteer project**, and something you can confidently include in **reports, approvals, and resumes**.
 
----
 
 # 🧱 Technology Stack & Rationale
 

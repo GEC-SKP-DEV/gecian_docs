@@ -113,10 +113,11 @@ nav:
       - Values & Principles: introduction/value-principle.md
 
   - Getting Started:
+      - Project Git Guide: setup/project_git.md
       - Environment Setup: setup/envlocal.md
       - Firebase Setup: setup/firebase.md
       - Neon Setup: setup/neon.md
-      - Project Git Guide: setup/project_git.md
+      
 
   - Organization:
       - Structure: organization/structure.md
@@ -126,15 +127,17 @@ nav:
       - Technology Stack: architecture/technology.md
 
   - Community:
-      - Community Guidelines: community/contribution-guidelines.md
+      - Community Guidelines: community/community-guidelines.md
+      - contribution Guidelines: community/contribution-guidelines.md
       - Why Contribute?: community/why-contribute.md
-      - Hacktoberfest: community/hackeroctoberfest.md
 
   - Succession:
       - Onboarding New Leads: succession/onboarding-new-leads.md
       - Succession Plan: succession/suession.md
+      - Hacktoberfest: succession/hackeroctoberfest.md
+
 
   - Roadmap:
-      - First Year Journey: roadmap/first-year.md
+      - First Year : roadmap/first-year.md
       - Future Plans: roadmap/futureplan.md
       - Lessons Learned: roadmap/lesson-learned.md

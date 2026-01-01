@@ -81,6 +81,7 @@
   * GitHub activity
   * Google Forms
   * Official email inbox
+  * Google analytics 
 * Ask seniors or previous leads if unsure—**no guesswork**.
 
 ---

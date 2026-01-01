@@ -1,13 +1,11 @@
-# ===============================
 # Database Configuration
-# ===============================
+
 DATABASE_URL="postgresql://USERNAME:PASSWORD@HOST:PORT/DATABASE?sslmode=require"
 
 
-# ===============================
+
 # Firebase Client Configuration
-# (Public – used in frontend)
-# ===============================
+
 NEXT_PUBLIC_FIREBASE_API_KEY="your_firebase_api_key"
 NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN="your_project_id.firebaseapp.com"
 NEXT_PUBLIC_FIREBASE_PROJECT_ID="your_project_id"
@@ -16,15 +14,8 @@ NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID="your_messaging_sender_id"
 NEXT_PUBLIC_FIREBASE_APP_ID="your_app_id"
 
 
-# ===============================
 # Firebase Admin SDK (Server Only)
-# ❌ NEVER expose to frontend
-# ❌ NEVER commit real values
-# ===============================
 
-
-
-# Option 2 (ONLY if platform requires single var)
 FIREBASE_ADMIN_SDK_KEY='{
   "type": "service_account",
   "project_id": "your_project_id",

@@ -1,9 +1,3 @@
-Got it 👍
-You want **pure Markdown**, **no `.sh` file**, **just copy-paste terminal commands** that contributors can run step by step.
-
-Below is a **clean, strict, copy-paste–friendly MkDocs section**.
-
----
 
 # 🚀 Gecian Hub – Complete Local Setup (Copy-Paste Ready)
 
