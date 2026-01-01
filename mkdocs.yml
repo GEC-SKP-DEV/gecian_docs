@@ -1,8 +1,10 @@
-site_name: My site
-site_url: https://mydomain.org/mysite
+site_name: Gecian Hub Documentation
+site_description: Official documentation for Gecian Hub
+site_author: GEC-SKP-DEV
+site_url: https://gec-skp-dev.github.io/gecian_docs/
 
-repo_name: squidfunk/mkdocs-material
-repo_url: https://github.com/squidfunk/mkdocs-material
+repo_name: gecian_docs
+repo_url: https://github.com/GEC-SKP-DEV/gecian_docs
 
 theme:
   name: material
@@ -100,3 +102,39 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
+
+nav:
+  - Home: index.md
+
+  - Introduction:
+      - Background Story: introduction/gecian_hub_backgroundstory.md
+      - Goals: introduction/goals.md
+      - Mission: introduction/mission.md
+      - Values & Principles: introduction/value-principle.md
+
+  - Getting Started:
+      - Environment Setup: setup/envlocal.md
+      - Firebase Setup: setup/firebase.md
+      - Neon Setup: setup/neon.md
+      - Project Git Guide: setup/project_git.md
+
+  - Organization:
+      - Structure: organization/structure.md
+
+  - Architecture:
+      - Overview: architecture/0verview.md
+      - Technology Stack: architecture/technology.md
+
+  - Community:
+      - Community Guidelines: community/contribution-guidelines.md
+      - Why Contribute?: community/why-contribute.md
+      - Hacktoberfest: community/hackeroctoberfest.md
+
+  - Succession:
+      - Onboarding New Leads: succession/onboarding-new-leads.md
+      - Succession Plan: succession/suession.md
+
+  - Roadmap:
+      - First Year Journey: roadmap/first-year.md
+      - Future Plans: roadmap/futureplan.md
+      - Lessons Learned: roadmap/lesson-learned.md

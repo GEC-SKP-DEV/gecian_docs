@@ -1,0 +1,1 @@
+all the idea are embeeded in the github issue the current lead can decide what to focus one 
