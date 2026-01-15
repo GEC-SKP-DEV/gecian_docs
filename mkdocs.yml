@@ -117,10 +117,11 @@ nav:
       - Environment Setup: setup/envlocal.md
       - Firebase Setup: setup/firebase.md
       - Neon Setup: setup/neon.md
-      
 
   - Organization:
       - Structure: organization/structure.md
+      - Decision Making: organization/decision-making.md
+      - Conflict Resolution: organization/conflict-resolution.md
 
   - Architecture:
       - Overview: architecture/0verview.md
@@ -128,16 +129,40 @@ nav:
 
   - Community:
       - Community Guidelines: community/community-guidelines.md
-      - contribution Guidelines: community/contribution-guidelines.md
+      - Contribution Guidelines: community/contribution-guidelines.md
       - Why Contribute?: community/why-contribute.md
+
+  - Incidents:
+      - Incident Response: incident/incident-response.md
+      - Rollback & Recovery: incident/recovery.md
 
   - Succession:
       - Onboarding New Leads: succession/onboarding-new-leads.md
       - Succession Plan: succession/suession.md
+      - Succession Failure & Project Continuity: succession/succession_failure_and_project_continuity.md
       - Hacktoberfest: succession/hackeroctoberfest.md
 
-
   - Roadmap:
-      - First Year : roadmap/first-year.md
+      - First Year: roadmap/first-year.md
       - Future Plans: roadmap/futureplan.md
       - Lessons Learned: roadmap/lesson-learned.md
+
+  - FAQ:
+      - General FAQ: faq/general.md
+      - Contributor FAQ: faq/contributors.md
+
+  - Legal & Privacy:
+      - Privacy Policy: legal & privacy/privacy-policy.md
+      - Data Handling: legal & privacy/data handling.md
+      - Disclaimer: legal & privacy/disclaimer.md
+
+
+
+
+
+
+
+
+
+
+
